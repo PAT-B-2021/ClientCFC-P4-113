@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\bin\Debug\ClientCFC-P4-133.exe.config
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\bin\Debug\ClientCFC-P4-133.exe
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\bin\Debug\ClientCFC-P4-133.pdb
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\obj\Debug\ClientCFC-P4-133.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\obj\Debug\ClientCFC-P4-133.exe
+C:\Users\Lenovo\source\repos\ClientCFC-P4-133\ClientCFC-P4-133\obj\Debug\ClientCFC-P4-133.pdb
